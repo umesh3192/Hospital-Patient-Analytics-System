@@ -8,3 +8,7 @@ The Hospital Patient Analytics System is an end-to-end Data Analytics project de
 The project focuses on analyzing hospital operational data, monitoring patient information, appointments, treatment costs, revenue, payment methods, and doctor performance through an interactive Power BI dashboard.
 
 The goal is to convert raw healthcare data into meaningful business insights that support better decision-making.
+
+## 📊 Dashboard Preview
+
+![Hospital Dashboard](Images/Hospital Proj Dashboard Image.png)
