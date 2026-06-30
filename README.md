@@ -11,4 +11,4 @@ The goal is to convert raw healthcare data into meaningful business insights tha
 
 ## 📊 Dashboard Preview
 
-![Hospital Dashboard](Images/Hospital-Dashboard.png)
+![Hospital Dashboard](Images/HospitalDashboard.png)
