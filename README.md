@@ -57,3 +57,11 @@ The Hospital Patient Analytics System uses a relational healthcare dataset store
 **Visualization:** Power BI
 
 **File Format:** CSV (.csv)
+
+## 🗄️ Database Schema
+
+The project follows a relational database design in PostgreSQL. The schema consists of five interconnected tables that manage patient, doctor, appointment, treatment, and billing information.
+
+### Data Model
+
+![Database Schema](Images/database-schema.png)
