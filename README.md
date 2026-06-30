@@ -35,3 +35,24 @@ This project was developed to:
 | Data Source | CSV (.csv) |
 | IDE / Tools | VS Code, Jupyter Notebook, Power BI Desktop, pgAdmin 4 |
 | Version Control | Git & GitHub |
+
+## 📂 Dataset Information
+
+The dataset used in this project contains hospital-related information collected for analytical purposes. It includes patient records, doctor details, appointment information, treatment costs, payment methods, and hospital performance metrics.
+
+### Dataset Includes
+
+- Patient ID
+- Patient Name
+- Age
+- Gender
+- Doctor Name
+- Department
+- Appointment Date
+- Appointment Status
+- Treatment Type
+- Treatment Cost
+- Payment Method
+- Hospital Revenue
+
+**File Format:** CSV (.csv)
