@@ -65,3 +65,20 @@ The project follows a relational database design in PostgreSQL. The schema consi
 ### Data Model
 
 ![Database Schema](Images/database-schema.png)
+
+## 💻 SQL Implementation
+
+PostgreSQL was used to design and manage the relational database for the Hospital Patient Analytics System. SQL was used to create tables, establish relationships, retrieve data, and generate analytical insights for reporting.
+
+### SQL Operations Performed
+
+- Created relational database tables using PostgreSQL.
+- Defined Primary Key and Foreign Key relationships.
+- Retrieved records using `SELECT` statements.
+- Performed `INNER JOIN` operations across multiple tables.
+- Used Aggregate Functions (`COUNT`, `SUM`, `AVG`) for KPI calculations.
+- Applied `GROUP BY` for data summarization.
+- Sorted results using `ORDER BY`.
+- Filtered records using `WHERE` conditions.
+- Used `DISTINCT` to identify unique values.
+- Applied column aliases using `AS` for better readability.
