@@ -126,3 +126,15 @@ Power BI was used to build an interactive dashboard that provides insights into 
 - Cross-filtering across all visuals
 - Interactive KPI cards
 - Dynamic charts for business insights
+
+## 📈 Business Insights
+
+The dashboard provides valuable insights into hospital operations and patient management, including:
+
+- Identified the total number of patients, doctors, appointments, and overall revenue.
+- Analyzed appointment trends to monitor hospital workload.
+- Compared treatment costs across different treatment types.
+- Evaluated revenue generated through different payment methods.
+- Analyzed patient distribution based on gender.
+- Compared doctor performance based on appointments handled.
+- Enabled interactive filtering for faster and more effective decision-making.
