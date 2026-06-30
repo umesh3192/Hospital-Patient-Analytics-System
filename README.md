@@ -98,3 +98,31 @@ Python was used to clean, process, and analyze the hospital dataset before build
 - Calculated key metrics such as total patients, total revenue, average treatment cost, and appointment status.
 - Created exploratory visualizations using Matplotlib.
 - Exported the cleaned dataset for further analysis.
+
+## 📊 Power BI Dashboard Features
+
+Power BI was used to build an interactive dashboard that provides insights into hospital operations, patient management, and financial performance.
+
+### Key Performance Indicators (KPIs)
+
+- Total Patients
+- Total Doctors
+- Total Appointments
+- Total Revenue
+- Average Treatment Cost
+
+### Dashboard Visualizations
+
+- Revenue Analysis
+- Appointment Analysis
+- Treatment Type Distribution
+- Patient Gender Distribution
+- Doctor Specialization Analysis
+- Monthly Appointment Trends
+
+### Interactive Features
+
+- Slicers for Doctor, Treatment Type, and Gender
+- Cross-filtering across all visuals
+- Interactive KPI cards
+- Dynamic charts for business insights
