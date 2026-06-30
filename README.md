@@ -38,21 +38,22 @@ This project was developed to:
 
 ## 📂 Dataset Information
 
-The dataset used in this project contains hospital-related information collected for analytical purposes. It includes patient records, doctor details, appointment information, treatment costs, payment methods, and hospital performance metrics.
+The Hospital Patient Analytics System uses a relational healthcare dataset stored in PostgreSQL. The dataset contains information about patients, doctors, appointments, treatments, and billing records. The data was processed using Python and visualized using Power BI.
 
-### Dataset Includes
+### Database Tables
 
-- Patient ID
-- Patient Name
-- Age
-- Gender
-- Doctor Name
-- Department
-- Appointment Date
-- Appointment Status
-- Treatment Type
-- Treatment Cost
-- Payment Method
-- Hospital Revenue
+| Table | Description |
+|--------|-------------|
+| Patients | Stores patient personal and contact information. |
+| Doctors | Contains doctor details, specialization, and experience. |
+| Appointments | Maintains appointment date, time, status, and reason for visit. |
+| Treatments | Stores treatment type, treatment date, description, and cost. |
+| Billing | Contains billing amount, payment method, and payment status. |
+
+**Database:** PostgreSQL
+
+**Data Processing:** Python (Pandas & NumPy)
+
+**Visualization:** Power BI
 
 **File Format:** CSV (.csv)
