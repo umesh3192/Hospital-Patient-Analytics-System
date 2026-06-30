@@ -82,3 +82,19 @@ PostgreSQL was used to design and manage the relational database for the Hospita
 - Filtered records using `WHERE` conditions.
 - Used `DISTINCT` to identify unique values.
 - Applied column aliases using `AS` for better readability.
+
+## 🐍 Python Implementation
+
+Python was used to clean, process, and analyze the hospital dataset before building the Power BI dashboard.
+
+### Python Tasks Performed
+
+- Imported multiple CSV datasets using Pandas.
+- Loaded Patients, Doctors, Appointments, Treatments, and Billing data.
+- Inspected the datasets using `head()`, `tail()`, and `info()`.
+- Checked for missing values and removed duplicate records.
+- Merged multiple datasets using Pandas `merge()`.
+- Performed data analysis using Pandas.
+- Calculated key metrics such as total patients, total revenue, average treatment cost, and appointment status.
+- Created exploratory visualizations using Matplotlib.
+- Exported the cleaned dataset for further analysis.
