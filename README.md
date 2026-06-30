@@ -138,3 +138,28 @@ The dashboard provides valuable insights into hospital operations and patient ma
 - Analyzed patient distribution based on gender.
 - Compared doctor performance based on appointments handled.
 - Enabled interactive filtering for faster and more effective decision-making.
+
+## 📁 Project Structure
+
+```text
+Hospital-Patient-Analytics-System
+│
+├── Dataset
+│   └── Hospital_Data.csv
+│
+├── PostgreSQL
+│   └── Hospital Patient SQL Queries.sql
+│
+├── Python
+│   └── Hospital Project.ipynb
+│
+├── Power BI
+│   └── HOSPITAL PROJECT.pbix
+│
+├── Images
+│   ├── dashboard.png
+│   └── database-schema.png
+│
+├── README.md
+└── LICENSE
+```
