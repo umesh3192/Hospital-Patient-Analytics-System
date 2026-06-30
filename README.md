@@ -23,3 +23,15 @@ This project was developed to:
 - Compare average treatment costs across treatment types.
 - Build an interactive Power BI dashboard for decision-making.
 - Demonstrate end-to-end Data Analytics skills using SQL, Python, and Power BI.
+
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Database | PostgreSQL |
+| Programming Language | Python |
+| Data Processing | Pandas, NumPy |
+| Data Visualization | Power BI |
+| Data Source | CSV (.csv) |
+| IDE / Tools | VS Code, Jupyter Notebook, Power BI Desktop, pgAdmin 4 |
+| Version Control | Git & GitHub |
