@@ -174,3 +174,12 @@ The following enhancements can further improve the project:
 - Develop interactive drill-through reports for detailed analysis.
 - Add role-based dashboards for hospital administrators, doctors, and management.
 - Implement automated alerts for critical hospital KPIs.
+
+## 👨‍💻 Author
+
+**Priya Jadhav**
+
+- **LinkedIn:** https://www.linkedin.com/in/umesh-jadhav-ba2223219/
+- **GitHub:** https://github.com/umesh3192
+
+---
