@@ -1,14 +1,14 @@
 # 🏥 Hospital Patient Analytics System
-End-to-End Data Analytics Project using SQL, Python, and Power BI.
+End-to-End Data Analytics Project using PostgreSQL, Python, and Power BI.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📌 Project Overview
 
-The Hospital Patient Analytics System is an end-to-end Data Analytics project developed using SQL, Python, and Power BI.
+The Hospital Patient Analytics System is an end-to-end Data Analytics project developed using PostgreSQL, Python, and Power BI.
 
 The project focuses on analyzing hospital operational data, monitoring patient information, appointments, treatment costs, revenue, payment methods, and doctor performance through an interactive Power BI dashboard.
 
