@@ -1,6 +1,11 @@
 # 🏥 Hospital Patient Analytics System
 End-to-End Data Analytics Project using SQL, Python, and Power BI.
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ## 📌 Project Overview
 
 The Hospital Patient Analytics System is an end-to-end Data Analytics project developed using SQL, Python, and Power BI.
@@ -60,9 +65,11 @@ The Hospital Patient Analytics System uses a relational healthcare dataset store
 
 ## 🗄️ Database Schema
 
-The project follows a relational database design in PostgreSQL. The schema consists of five interconnected tables that manage patient, doctor, appointment, treatment, and billing information.
+The project follows a relational database design in PostgreSQL.
 
 ### Data Model
+
+The following data model was created in Power BI using data imported from PostgreSQL. It illustrates the relationships between the Patients, Doctors, Appointments, Treatments, and Billing tables used in the project.
 
 ![Database Schema](Images/database-schema.png)
 
@@ -107,7 +114,7 @@ Power BI was used to build an interactive dashboard that provides insights into 
 
 - Total Patients
 - Total Doctors
-- Total Appointments
+- Completed Appointments
 - Total Revenue
 - Average Treatment Cost
 
@@ -157,7 +164,7 @@ Hospital-Patient-Analytics-System
 │   └── HOSPITAL PROJECT.pbix
 │
 ├── Images
-│   ├── dashboard.png
+│   ├── HospitalDashboard.png
 │   └── database-schema.png
 │
 ├── README.md
