@@ -177,7 +177,7 @@ The following enhancements can further improve the project:
 
 ## 👨‍💻 Author
 
-**Priya Jadhav**
+**Umesh Jadhav**
 
 - **LinkedIn:** https://www.linkedin.com/in/umesh-jadhav-ba2223219/
 - **GitHub:** https://github.com/umesh3192
