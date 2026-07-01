@@ -162,4 +162,14 @@ Hospital-Patient-Analytics-System
 │
 ├── README.md
 └── LICENSE
-```
+
+## 🚀 Future Enhancements
+
+The following enhancements can further improve the project:
+
+- Integrate a live PostgreSQL database for real-time data updates.
+- Automate data refresh using Power BI scheduled refresh.
+- Build predictive models for patient admission and treatment cost forecasting.
+- Develop interactive drill-through reports for detailed analysis.
+- Add role-based dashboards for hospital administrators, doctors, and management.
+- Implement automated alerts for critical hospital KPIs.
